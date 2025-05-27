@@ -1,7 +1,9 @@
 # Instalação
 
  * Clonar repositório
-
+    ```bash
+        git clone {giturl}        
+    ```
  * Resolver dependências com:
 
     ```bash
