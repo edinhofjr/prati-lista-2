@@ -19,5 +19,5 @@ O nome do arquivo corresponde ao número do exercício. Para executá-lo, o usu�
 
 exemplo para executar o arquivo do exercício 1: 
 ```bash
-    npm 1 
+    node 1 
 ``` 
